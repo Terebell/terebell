@@ -18,5 +18,4 @@
 > Design or redesign a website, starting with a model on **Figma**, then writing the code to build the website.
 
 :tomato: My social media  
-
 [Behance](https://www.behance.net/terebell) | [Instagram](https://www.instagram.com/terebell.l/) | [Twitter](https://twitter.com/Terebell_l)
