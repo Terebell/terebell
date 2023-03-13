@@ -1,16 +1,22 @@
-### Hi there 👋
+# :milky_way: Hello there !
+:tomato: As an **illustrator** and graphic designer, I did an internship in web development to improve my knowledge, learn new skills and discover the work of a web developer !
 
-<!--
-**Terebell/terebell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:tomato: During my internship, I worked on several projects, first dealing with the **frontend**, then learning about the backend *(but it's not for me* :sweat_smile:*)*.
+| Project | Request | Languages |
+|--|--|--|
+| :airplane: Booki | Designing the website according to the model | HTML • CSS |
+| :spaghetti: Oh My Food | Create the website according to the model and make it dynamic | HTML • CSS
+| :cat: La Panthère | Optimising and correcting an existing website | HTML • CSS
+| :moneybag: Kanap | Integrating dynamic elements into an existing website | JavaScript
 
-Here are some ideas to get you started:
+> :information_source: Except for the Kanap project, **all works are available via GitHub Pages !**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :dizzy: Personal projects
+:tomato: I'm working on different projects to continue my learning.
+
+> **The concept ?**
+> Design or redesign a website, starting with a model on **Figma**, then writing the code to build the website.
+
+:tomato: My social media
+[Behance](https://www.behance.net/terebell) | [Instagram](https://www.instagram.com/terebell.l/) | [Twitter](https://twitter.com/Terebell_l)
+![ ](https://zupimages.net/viewer.php?id=23/11/0e85.png)
