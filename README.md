@@ -4,10 +4,10 @@
 :tomato: During my internship, I worked on several projects, first dealing with the **frontend**, then learning about the backend *(but it's not for me* :sweat_smile:*)*.
 | Project | Request | Languages |
 |--|--|--|
-| :airplane: Booki | Designing the website according to the model | HTML • CSS |
-| :spaghetti: Oh My Food | Create the website according to the model and make it dynamic | HTML • CSS
-| :cat: La Panthère | Optimising and correcting an existing website | HTML • CSS
-| :moneybag: Kanap | Integrating dynamic elements into an existing website | JavaScript
+| :airplane: [Booki](https://github.com/Terebell/Booki) | Designing the website according to the model | HTML • CSS |
+| :spaghetti: [Oh My Food](https://github.com/Terebell/Oh-My-Food) | Create the website according to the model and make it dynamic | HTML • CSS
+| :cat: [La Panthère](https://github.com/Terebell/La-Panthere) | Optimising and correcting an existing website | HTML • CSS
+| :moneybag: [Kanap](https://github.com/Terebell/Kanap) | Integrating dynamic elements into an existing website | JavaScript
 
 > :information_source: Except for the Kanap project, **all works are available via GitHub Pages !**
 
@@ -17,5 +17,5 @@
 > **The concept ?**
 > Design or redesign a website, starting with a model on **Figma**, then writing the code to build the website.
 
-:tomato: My social media  
+:tomato: My social media
 [Behance](https://www.behance.net/terebell) | [Instagram](https://www.instagram.com/terebell.l/) | [Twitter](https://twitter.com/Terebell_l)
