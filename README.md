@@ -17,6 +17,6 @@
 > **The concept ?**
 > Design or redesign a website, starting with a model on **Figma**, then writing the code to build the website.
 
-:tomato: My social media
+:tomato: My social media  
+
 [Behance](https://www.behance.net/terebell) | [Instagram](https://www.instagram.com/terebell.l/) | [Twitter](https://twitter.com/Terebell_l)
-![ ](https://zupimages.net/viewer.php?id=23/11/0e85.png)
